@@ -1,0 +1,6 @@
+interface:
+  display_name: "Android Runtime Permissions"
+  short_description: "Repo-specific patterns and workflows for Android_Runtime_Permissions"
+  default_prompt: "Use the Android_Runtime_Permissions repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
